@@ -35,6 +35,8 @@ IDE - Visual Studio Code, Python 3.12
 4) Перетворення *.ui файлу у файл типу *.py
 -> На файлі MainWindow.ui - права клавіша миші - Compile Qt UI File (uic)
 
+5) Розархівувати в поточний каталог - clidriver.7z
+
 ---------------------------------------------------
 Створення EXE файла
 1) Ставимо pyinstaller
